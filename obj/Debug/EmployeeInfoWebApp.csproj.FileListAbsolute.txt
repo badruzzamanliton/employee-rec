@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll.config
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.pdb
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.dll
+c:\users\user\documents\visual studio 2013\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.pdb
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll.config
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.pdb
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.csprojAssemblyReference.cache
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.csproj.CoreCompileInputs.cache
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.dll
+I:\IT-LITON\MyLearnDoc\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.pdb
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.csproj.CoreCompileInputs.cache
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.dll
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.pdb
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll.config
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.dll
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\bin\EmployeeInfoWebApp.pdb
+D:\Projects\EmployeeInfoWebApp\EmployeeInfoWebApp\obj\Debug\EmployeeInfoWebApp.csprojAssemblyReference.cache
